@@ -1,5 +1,4 @@
-# employee-management-api-dotnet
-Simple REST API built with .NET Core and SQL Server to manage employees.
+
 # Employee Management API (.NET Core)
 
 A simple RESTful API built with **ASP.NET Core** and **SQL Server** to manage employee records (create, read, update, delete).
